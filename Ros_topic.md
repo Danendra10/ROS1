@@ -14,3 +14,4 @@ Dua node yang tadi kita jalankan saling berkomunikasi turtle_teleop_key mengirim
    ```
 4. Jika anda melakukan langkah diatas dengan benar, anda akan mendapatkan window baru dengan tampilan berikut
     <img src="http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics?action=AttachFile&do=get&target=rqt_graph_turtle_key.png">
+5. Perkenalan perntah rostopic
